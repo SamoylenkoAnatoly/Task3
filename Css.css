@@ -1,0 +1,30 @@
+
+#butt input
+{
+    display: block;
+    margin: 10px;
+    width: 50px;
+}
+#main-part
+{
+    display: flex;
+}
+#first
+{
+    display: inline-block;
+    width: 50%;
+    height: 100px;
+    background-color: red;
+}
+#second
+{
+    display: inline-block;
+    height: 100px;
+    width: 50%;
+    background-color: black;
+}
+select
+{
+    width: 75px;
+    background: white; 
+}
